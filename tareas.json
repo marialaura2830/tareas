@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "restar",
+        "descripcion": "sumar"
+    },
+    {
+        "titulo": "multiplicar",
+        "descripcion": "dividir"
+    },
+    {
+        "titulo": "trabajar",
+        "descripcion": "tarde"
+    },
+    {
+        "titulo": "escribir",
+        "descripcion": "leer"
+    },
+    {
+        "titulo": "despertarse",
+        "descripcion": "levantarse"
+    }
+]
